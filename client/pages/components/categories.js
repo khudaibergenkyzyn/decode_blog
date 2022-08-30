@@ -9,6 +9,7 @@ function Catgories({getCategoriesAction , categories}) {
 		getCategoriesAction()
 	} , [])
     useEffect(()=>{
+        console.log(categories);
         returnCategories = categories.map((categ) => <a className='list-item' key={"categ-"+categ.id} href="">{categ.name}</a>)
     }, [categories])
     return(

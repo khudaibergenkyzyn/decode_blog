@@ -50,7 +50,6 @@ router.delete('/api/blogs/:id' , async(req , res) => {
     }
 })
 router.get('/api/blogs' , async (req , res) => {
-    console.log('Work');
     try{
         const blog = await getBlogs()
         res.status(200).send(blog)
