@@ -19,7 +19,7 @@ exports.modules = {
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"BASE_URL\": () => (/* binding */ BASE_URL)\n/* harmony export */ });\nconst BASE_URL = 'http://localhost:3001';//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb25maWcvYmFzZXVybC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7O0FBQU8sTUFBTUEsUUFBUSxHQUFDLHVCQUFmIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vZnJvbnRlbmQvLi9jb25maWcvYmFzZXVybC5qcz9hNGY1Il0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjb25zdCBCQVNFX1VSTD0naHR0cDovL2xvY2FsaG9zdDozMDAxJyJdLCJuYW1lcyI6WyJCQVNFX1VSTCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./config/baseurl.js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"BASE_URL\": () => (/* binding */ BASE_URL)\n/* harmony export */ });\n// export const BASE_URL='http://api.decodeblog.site'\nconst BASE_URL = 'http://localhost:3001';//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb25maWcvYmFzZXVybC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7O0FBQUE7QUFDTyxNQUFNQSxRQUFRLEdBQUMsdUJBQWYiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9mcm9udGVuZC8uL2NvbmZpZy9iYXNldXJsLmpzP2E0ZjUiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXhwb3J0IGNvbnN0IEJBU0VfVVJMPSdodHRwOi8vYXBpLmRlY29kZWJsb2cuc2l0ZSdcbmV4cG9ydCBjb25zdCBCQVNFX1VSTD0naHR0cDovL2xvY2FsaG9zdDozMDAxJyJdLCJuYW1lcyI6WyJCQVNFX1VSTCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./config/baseurl.js\n");
 
 /***/ }),
 
