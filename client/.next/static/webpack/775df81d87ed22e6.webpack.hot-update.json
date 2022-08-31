@@ -1,0 +1,1 @@
+{"c":["pages/_app","webpack"],"r":["pages/signin"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2FUsers%2Ftmrbk%2FDocuments%2FreactSSR%2Fclient%2Fpages%2Fsignin.js&page=%2Fsignin!","./node_modules/next/head.js","./node_modules/nextjs-redirect/dist/index.js","./pages/components/signinForm.js","./pages/signin.js"]}
