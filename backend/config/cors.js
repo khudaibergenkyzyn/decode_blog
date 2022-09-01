@@ -1,4 +1,4 @@
-const whitelist = ['http://localhost:3000', 'https://scedule.decode.kz' , 'http://blog.decodeblog.site']
+const whitelist = ['http://localhost:3000', 'https://schedule.decode.kz' , 'http://blog.decodeblog.site']
 const corsOptionsDelegate = function (req, callback) {
   let corsOptions;
   if (whitelist.indexOf(req.header('Origin')) !== -1) {
